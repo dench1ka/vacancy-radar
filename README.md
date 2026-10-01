@@ -1,5 +1,9 @@
 # vacancy-radar
 
+[![CI](https://github.com/dench1ka/vacancy-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/dench1ka/vacancy-radar/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dench1ka/vacancy-radar)](https://goreportcard.com/report/github.com/dench1ka/vacancy-radar)
+[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go)](go.mod)
+
 Небольшой сервис на Go, который сам ищет вакансии на hh.ru по заданным ключевым
 словам и присылает уведомления в Telegram, как только появляется что-то новое.
 
