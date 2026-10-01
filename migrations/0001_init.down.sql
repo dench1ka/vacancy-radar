@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS seen_vacancies;
+DROP TABLE IF EXISTS vacancies;
+DROP TABLE IF EXISTS subscriptions;
+DROP TABLE IF EXISTS users;
